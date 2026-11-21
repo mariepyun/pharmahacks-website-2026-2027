@@ -6,6 +6,7 @@
 
 # Project overview
 
+
 This is a summary of everything you need to know to  work with PharmaHacks. Our workflow, details of the projects, and guidelines on how to get started are all outlined in this document.
 
 
